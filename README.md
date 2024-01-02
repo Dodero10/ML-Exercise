@@ -3,7 +3,7 @@
 To install this project, follow these steps:
 1. Clone the repository
 ```bash
-git clone [https://github.com/Dodero10/Heart-Disease-Chatbot.git](https://github.com/Dodero10/ML-Exercise.git)
+git clone https://github.com/Dodero10/ML-Exercise.git
 ```
 
 2. Set up a environment with Python 3.10
