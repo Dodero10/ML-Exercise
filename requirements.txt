@@ -1,2 +1,3 @@
 git+https://github.com/sberbank-ai/Real-ESRGAN.git
 torch==2.0.0
+gradio
